@@ -98,6 +98,7 @@ Diverse opinions are the essence of Hacker News discussions, ranging from excite
 - Analyze sentiment distribution.
 - Explore frequent words associated with each sentiment.
 - Visualize sentiment distribution over time.
+![Screenshot (7)](https://github.com/Amell88/Hacker-news1/assets/121213708/9c7b68e4-9485-4c2b-86bc-061bbcc85d19)
 
 ### Feature Engineering
 
