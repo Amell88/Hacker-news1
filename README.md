@@ -96,9 +96,12 @@ Diverse opinions are the essence of Hacker News discussions, ranging from excite
 ### Exploratory Data Analysis (EDA)
 
 - Analyze sentiment distribution.
+  ![Hacker-news1_capstone ipynb at 48b6cbf8a92307bae9d4bb907d97868802d76eba · Amell88_Hacker-news1 - Google Chrome 2_13_2024 8_07_43 PM](https://github.com/Amell88/Hacker-news1/assets/121213708/7497a29d-f814-491e-9b93-b8c830d023f7)
+
 - Explore frequent words associated with each sentiment.
+  ![Screenshot (7)](https://github.com/Amell88/Hacker-news1/assets/121213708/9c7b68e4-9485-4c2b-86bc-061bbcc85d19)
+
 - Visualize sentiment distribution over time.
-![Screenshot (7)](https://github.com/Amell88/Hacker-news1/assets/121213708/9c7b68e4-9485-4c2b-86bc-061bbcc85d19)
 
 ### Feature Engineering
 
@@ -111,6 +114,7 @@ Diverse opinions are the essence of Hacker News discussions, ranging from excite
 
 - Linear classification for baseline sentiment analysis.
 - Interpretable insights into fundamental relationships between features.
+![Screenshot (9)](https://github.com/Amell88/Hacker-news1/assets/121213708/3401fefb-c353-4cde-8ad5-2b0299aa478e)
 
 ### Random Forest
 
@@ -124,6 +128,7 @@ Diverse opinions are the essence of Hacker News discussions, ranging from excite
 
 - Captures information comprehensively from past and future contexts.
 - Enhances the model's ability to capture nuanced sentiment expressions.
+![Screenshot (10)](https://github.com/Amell88/Hacker-news1/assets/121213708/1140b331-d78a-4b75-9a38-d0bf301cc479)
 
 ### User Behavior Analysis Models
 
